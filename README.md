@@ -14,4 +14,4 @@ Computer will guess a number of Words & Characters you hae inputed in the text f
 
 ## Screen Shot:
 
-![Image of app]("https://github.com/shijoshaji/word_Count/tree/main/static/Capture.PNG")
+![Image of app]("https://github.com/shijoshaji/word_Count/blob/main/static/Capture.PNG")
